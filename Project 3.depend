@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1573080423 source:c:\users\justi\onedrive\documents\utd classes\freshman year s1\(m,w) computer science ii (2337)\projects\project 3\main.cpp
+	"BinTree.h"
+	"Payload.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1571699420 source:c:\users\justi\onedrive\documents\utd classes\freshman year s1\(m,w) computer science ii (2337)\projects\project 3\node.cpp
+	"Node.h"
+
+1571699420 source:c:\users\justi\onedrive\documents\utd classes\freshman year s1\(m,w) computer science ii (2337)\projects\project 3\bintree.cpp
+	"BinTree.h"
+
+1573076572 c:\users\justi\onedrive\documents\utd classes\freshman year s1\(m,w) computer science ii (2337)\projects\project 3\bintree.h
+	"Node.h"
+	<iostream>
+	<exception>
+	<ostream>
+	<sstream>
+
+1573075680 c:\users\justi\onedrive\documents\utd classes\freshman year s1\(m,w) computer science ii (2337)\projects\project 3\node.h
+	<iostream>
+	<ostream>
+	<sstream>
+	<type_traits>
+
+1601687949 source:c:\users\justi\onedrive\documents\utd classes\freshman year s1\(m,w) computer science ii (2337)\projects\project 3\payload.cpp
+	"Payload.h"
+
+1573075680 c:\users\justi\onedrive\documents\utd classes\freshman year s1\(m,w) computer science ii (2337)\projects\project 3\payload.h
+	<iostream>
+	<ostream>
+	<sstream>
+	<cmath>
+
+1571699420 source:c:\users\justi\onedrive\documents\utd classes\(1) freshman year s1 (fall)\(m,w) computer science ii (2337)\projects\project 3\bintree.cpp
+	"BinTree.h"
+
+1573076572 c:\users\justi\onedrive\documents\utd classes\(1) freshman year s1 (fall)\(m,w) computer science ii (2337)\projects\project 3\bintree.h
+	"Node.h"
+	<iostream>
+	<exception>
+	<ostream>
+	<sstream>
+
+1573075680 c:\users\justi\onedrive\documents\utd classes\(1) freshman year s1 (fall)\(m,w) computer science ii (2337)\projects\project 3\node.h
+	<iostream>
+	<ostream>
+	<sstream>
+	<type_traits>
+
+1612668002 source:c:\users\justi\onedrive\documents\utd classes\(1) freshman year s1 (fall)\(m,w) computer science ii (2337)\projects\project 3\main.cpp
+	"BinTree.h"
+	"Payload.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1573075680 c:\users\justi\onedrive\documents\utd classes\(1) freshman year s1 (fall)\(m,w) computer science ii (2337)\projects\project 3\payload.h
+	<iostream>
+	<ostream>
+	<sstream>
+	<cmath>
+
+1571699420 source:c:\users\justi\onedrive\documents\utd classes\(1) freshman year s1 (fall)\(m,w) computer science ii (2337)\projects\project 3\node.cpp
+	"Node.h"
+
+1601687949 source:c:\users\justi\onedrive\documents\utd classes\(1) freshman year s1 (fall)\(m,w) computer science ii (2337)\projects\project 3\payload.cpp
+	"Payload.h"
+
